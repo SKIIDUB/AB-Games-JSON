@@ -1,0 +1,77 @@
+[
+    {
+        "slug": "nfs-hot-pursuit",
+        "name": "NFS Hot Pursuit",
+        "description": "High-speed racing action with stunning visual effects.",
+        "versions": [
+            {
+                "platform": "Windows",
+                "url": "https://mega.nz/file/JzoBzbLD#j2PWBzIwxlL8LAn309xGZI0XYNh-PA9CWqb2j6M326g",
+                "tags": ["Racing", "Multiplayer", "Simulation"]
+            },
+            {
+                "platform": "Android",
+                "url": "https://lzip.us/EYr",
+                "tags": ["Racing", "Mobile", "Touch-Controls"]
+            },
+            {
+                "platform": "IOS",
+                "url": "https://dl.iosvizor.net/need-for-speed-hot-pursuit/NFS-Hot-Pursuit-v1.3.33-iosvizor.ipa",
+                "tags": ["Racing", "Mobile", "Touch-Controls"]
+            }
+        ]
+    },
+    {
+        "slug": "asphalt-8",
+        "name": "Asphalt 8",
+        "description": "High Speed racing action with stunts and stunning gameplay",
+        "versions": [
+            {
+                "platform": "1.00j for Windows",
+                "url": "https://drive.usercontent.google.com/download?id=1QQBuIen3feZYINY1pEeY1_uxO23C9zAG&export=download&authuser=0",
+                "tags": ["Racing", "SinglePlayer", "Offline"]
+            },
+            {
+                "platform": "Remastered Edtiton for Android",
+                "url": "https://techboy1997mods.blogspot.com/p/download_10.html",
+                "tags": ["Racing", "SinglePlayer", "Offline"]
+            },
+            {
+                "platform": "1.90f for Android",
+                "url": "https://drive.usercontent.google.com/download?id=1xvJ4Lr6-651L8tPV1cgPgfF1f25RVuPZ&export=download&authuser=0",
+                "tags": ["Racing", "SinglePlayer", "Offline","Unmodded"]
+            },
+            {
+                "platform": "1.70f for Android",
+                "url": "https://www.mediafire.com/file/up520zidxw6631n/Asphalt_8_Airborne_Samsung_Store-1.7.0-607459+%281%29.7z/file",
+                "tags": ["Racing", "SinglePlayer", "Offline","Unmodded"]
+            },
+            {
+                "platform": "5.60if for Android",
+                "url": "https://disk.yandex.com/d/tkZT_OdMK6c6dg",
+                "tags": ["Racing", "SinglePlayer", "Offline","Unmodded"]
+            },
+            {
+                "platform": "3.80m for Android",
+                "url": "https://www.mediafire.com/file/e2j2aopfc746sba/A8_3.8.0m.zip/file",
+                "tags": ["Racing", "SinglePlayer", "Offline","Unmodded"]
+            },
+            {
+                "platform": "3.00L for Android",
+                "url": "https://www.mediafire.com/file/wji2xipbpk8kav6/Asphalt+8+3.0.0L+mod.apk/file",
+                "tags": ["Racing", "SinglePlayer", "Offline","Modded"]
+            },
+            {
+                "platform": "3.11c for Android",
+                "url": "https://www.mediafire.com/file/4pspo6e5qs2bn02/Airborne+3.1.1c.apk",
+                "tags": ["Racing", "SinglePlayer", "Offline","Unmodded"]
+            },
+            {
+                "platform": "1.20 Premium Edition for Android",
+                "url": "https://www.mediafire.com/folder/khaxxvvstba7l/A8P_by_Techboy1997",
+                "tags": ["Racing", "SinglePlayer", "Offline","Unmodded"]
+            },
+            
+        ]
+    }
+]
